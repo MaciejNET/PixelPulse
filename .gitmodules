@@ -1,3 +1,6 @@
 [submodule "Services/UserService"]
 	path = Services/UserService
 	url = https://github.com/MaciejNET/PixelPulseUserService
+[submodule "SharedGo"]
+	path = SharedGo
+	url = https://github.com/MaciejNET/PixelPulseSharedGo
