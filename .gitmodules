@@ -4,3 +4,9 @@
 [submodule "SharedGo"]
 	path = src/Share/SharedGo
 	url = https://github.com/MaciejNET/PixelPulseSharedGo
+[submodule "src/Share/SharedGo"]
+	path = src/Share/SharedGo
+	url = https://github.com/MaciejNET/PixelPulseSharedGo
+[submodule "src/Services/UserService"]
+	path = src/Services/UserService
+	url = https://github.com/MaciejNET/PixelPulseUserService
